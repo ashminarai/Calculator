@@ -7,8 +7,8 @@ function App() {
   return (
     <>
     <Header name="Anna" color="purple"/>
-    <Main/>
-    <Sidebar/>
+    <Main greet="Howdy"/>
+    <Sidebar greet="Howdy"/>
     </>
   );
 }
