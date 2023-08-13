@@ -6,7 +6,7 @@ import Sidebar from './Sidebar';
 function App() {
   return (
     <>
-    <Header/>
+    <Header name="Anna" color="purple"/>
     <Main/>
     <Sidebar/>
     </>
