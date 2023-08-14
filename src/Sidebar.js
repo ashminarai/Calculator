@@ -4,6 +4,7 @@ const Sidebar = (props) => {
   return (
    <>
    <h5>{props.greet}Sidebar</h5>
+   <h5>{props.greet}Sidebar</h5>
    </>
   )
 }
