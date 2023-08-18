@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Apples = () => {
+const Apples = (props) => {
   return (
     <>
     <div className="promo-section">
