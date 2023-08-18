@@ -10,7 +10,7 @@ function App() {
     <Header name="Anna" color="purple"/>
     <Main greet="Howdy"/>
     <Sidebar greet="Howdy"/>
-    <Apples/>
+    <Apples number="4" color="Red, Green"/>
     </>
   );
 }
