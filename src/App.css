@@ -39,7 +39,7 @@
 
 .calculator {
   width: 300px;
-  margin: 0 auto;
+  margin: 100px auto;
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -47,19 +47,19 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+
 .display {
   margin-bottom: 10px;
   text-align: right;
 }
 
 input {
-  width: 100%;
+  width: 90%;
   padding: 10px;
   font-size: 18px;
   border: none;
   border-radius: 5px;
 }
-
 .result {
   font-size: 24px;
   font-weight: bold;
@@ -77,10 +77,11 @@ button {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  background-color: #333;
+  background-color: orange;
   color: #fff;
 }
 
 button:hover {
-  background-color: #555;
+  background-color: rgb(245, 165, 16);
 }
+

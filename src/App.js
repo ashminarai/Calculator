@@ -46,7 +46,7 @@ function App() {
     <div className="calculator">
       <div className="display">
         <input type="text" value={input} readOnly />
-        <div className="result">{result}</div>
+        <div className="result"> = {result}</div>
       </div>
       <div className="buttons">
         <button onClick={() => handleClick('7')}>7</button>
