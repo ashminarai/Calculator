@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div className="calculator">
-      <div className="display">
+      <div className="show">
         <input type="text" value={input} readOnly />
         <div className="result"> = {result}</div>
       </div>
